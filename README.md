@@ -98,11 +98,11 @@
 
 | 📁 Категория | 📄 Описание | 🔗 Ссылка |
 |-------------|-------------|----------|
-| Техники тест-дизайна | Примеры решений задач |  [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](02_Test_Design) |
-| Тест-кейсы и чек-листы, баг репорты | Примеры тестовой документации и отчетов о дефектах | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](01_Manual_Testing_Artifacts) |
-| API тестирование | Коллекции Postman и результаты тестов | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](04_WEB_API_Testing) |
-| Работа с HTML и CSS | Первая страница в Интернете | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](05_HTML_CSS) |
-| SQL запросы | Практические задания по работе с БД | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](03_Database) |
+| Техники тест-дизайна | Примеры решений задач |  [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/02_Test_Design) |
+| Тест-кейсы и чек-листы, баг репорты | Примеры тестовой документации и отчетов о дефектах | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/01_Manual_Testing_Artifacts) |
+| API тестирование | Коллекции Postman и результаты тестов | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/04_WEB_API_Testing) |
+| Работа с HTML и CSS | Первая страница в Интернете | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/05_HTML_CSS) |
+| SQL запросы | Практические задания по работе с БД | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/03_Database) |
 
 </div>
 
