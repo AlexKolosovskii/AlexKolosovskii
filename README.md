@@ -1,42 +1,31 @@
-# 👋 Привет, я Александр — начинающий QA Engineer
+# 👋 Привет, я Александр — QA Engineer
 
-> 🎯 **Моя цель:** Находить баги до того, как их найдут пользователи, и делать продукты лучше.
+> 🎯 **Моя цель:** Находить баги до пользователей и делать продукты надёжнее.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](ВСТАВЬ_СЮДА_ССЫЛКУ)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:drankincroc@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexkolosovskii)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Al_Kolosovskii)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/AlexKolosovskii)
 
 </div>
 
 ---
 
-## 🚀 Почему стоит рассмотреть мою кандидатуру?
+## 🚀 Почему я?
 
-| ✅ | Что я предлагаю |
-|---|----------------|
-| 🔍 | **Внимательность к деталям** — умею находить неочевидные баги и описывать их так, чтобы разработчик понял с первого раза |
-| 📚 | **Системное обучение** — прошёл комплексный курс по тестированию ПО с сертификатами Stepik |
-| 🛠 | **Практические навыки** — Web, API, SQL, Git — готов к реальным задачам |
-| 📈 | **Мотивация расти** — ищу команду, где смогу приносить пользу и развиваться в QA |
-
-## 💻 Языки программирования и верстка
-
-Помимо инструментов тестирования, я владею основами разработки, что помогает мне лучше понимать архитектуру приложения и находить причины дефектов.
-
-| Язык | Уровень | Как я это использую |
-|------|---------|---------------------|
-| **HTML5 / CSS3** | Базовый | Верстка веб-страниц, понимание DOM-дерева, работа с селекторами для UI-тестов. Создал свое портфолио с нуля. |
-| **Python** | На уровне ООП | (Если честно, надо освежить память:)) Написание простых скриптов, понимание синтаксиса для будущего изучения автотестов (Selenium, Pytest, Requests). |
-
+| ✅ | Что я приношу в команду |
+|---|------------------------|
+| 🔍 | **Нахожу неочевидные баги** — 14 дефектов в портфолио, включая 3 критических |
+| 📋 | **Пишу понятную документацию** — баг-репорты, которые разработчики берут в работу с первого раза |
+| 🛠 | **Работаю с реальным стеком** — Postman, SQL, DevTools, Git — готов к задачам с первого дня |
+| 🤝 | **Умею работать в команде** — опыт руководства 80+ людьми: дисциплина, сроки, коммуникация |
 
 ---
 
-## 🧰 Мой стек и инструменты
+## 🧰 Мой стек
 
-### 📋 Тест-дизайн и документация
+### Тестирование и документация
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
@@ -48,100 +37,82 @@
 
 </div>
 
-### 🌐 Web & API тестирование
+### Web, API и базы данных
 <div align="center">
 
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" alt="Chrome DevTools" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png" alt="Postman" width="40" height="40"/>
 <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="SoapUI" width="40" height="40"/>
-
-</div>
-
-### 💾 Базы данных
-<div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 
 </div>
 
-### ✏️ Работа с кодом и версии
+### Инструменты разработки
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
-</div>
-
-### 🤖 AI-инструменты
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/250px-Qwen_logo.svg.png?20250327025131" alt="Qwen AI" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DeepSeek-icon.svg/960px-DeepSeek-icon.svg.png?20250630230357" alt="DeepSeek" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grok-icon.svg/1280px-Grok-icon.svg.png" alt="Grok AI" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
 </div>
 
 ---
 
-## 🎓 Сертификаты Stepik
+## 📂 Портфолио: практические работы
 
-<div align="center">
+| 📁 Проект | 🎯 Что тестировал | 🔗 Ссылка |
+|-----------|------------------|-----------|
+| **Тест-дизайн** | Классы эквивалентности, граничные значения, парное тестирование | [![Открыть](https://img.shields.io/badge/📁_Открыть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-portfolio/tree/main/02_Test_Design) |
+| **Тест-кейсы и баг-репорты** | 15+ кейсов, 14 дефектов с шагами воспроизведения и скринами | [![Открыть](https://img.shields.io/badge/📁_Открыть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-portfolio/tree/main/01_Manual_Testing_Artifacts) |
+| **API тестирование** | Коллекции Postman, валидация JSON, тестирование REST-эндпоинтов | [![Открыть](https://img.shields.io/badge/📁_Открыть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-portfolio/tree/main/04_WEB_API_Testing) |
+| **SQL и базы данных** | Запросы с JOIN, фильтрация, проверка целостности данных | [![Открыть](https://img.shields.io/badge/📁_Открыть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-portfolio/tree/main/03_Database) |
+| **Web-вёрстка** | Понимание DOM, работа с селекторами, базовая вёрстка | [![Открыть](https://img.shields.io/badge/📁_Открыть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-portfolio/tree/main/05_HTML_CSS) |
 
-| Курс | Сертификат |
-|------|-----------|
-| Тестирование ПО с нуля. Теория + практика. Уровень PRO | [![Посмотреть сертификат](https://img.shields.io/badge/📄_Посмотреть_сертификат-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://stepik.org/cert/3142728) |
-| Тестирование ПО с нуля. Тесты | [![Посмотреть сертификат](https://img.shields.io/badge/📄_Посмотреть_сертификат-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://stepik.org/cert/3140772) |
-| Тестирование ПО с нуля. Практические тренажеры для тестировщика | [![Посмотреть сертификат](https://img.shields.io/badge/📄_Посмотреть_сертификат-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://stepik.org/cert/3120692) |
-| Тестирование ПО с нуля. Симулятор собеседования тестировщика | [![Посмотреть сертификат](https://img.shields.io/badge/📄_Посмотреть_сертификат-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://stepik.org/cert/3135850) |
-
-</div>
-
----
-
-## 📂 Практические работы
-
-Работы, выполненные мной в ходе обучения на курсе «Тестирование ПО с нуля»:
-
-<div align="center">
-
-| 📁 Категория | 📄 Описание | 🔗 Ссылка |
-|-------------|-------------|----------|
-| Техники тест-дизайна | Примеры решений задач |  [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/02_Test_Design) |
-| Тест-кейсы и чек-листы, баг репорты | Примеры тестовой документации и отчетов о дефектах | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/01_Manual_Testing_Artifacts) |
-| API тестирование | Коллекции Postman и результаты тестов | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/04_WEB_API_Testing) |
-| Работа с HTML и CSS | Первая страница в Интернете | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/05_HTML_CSS) |
-| SQL запросы | Практические задания по работе с БД | [![Смотреть](https://img.shields.io/badge/📁_Смотреть-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKolosovskii/QA-potfolio/tree/main/03_Database) |
-
-</div>
-
-> 💡 *Раздел пополняется новыми работами по мере прохождения обучения*
+> 💡 *Портфолио пополняется: каждый проект — это реальные артефакты тестирования, а не просто теория*
 
 ---
 
-## 💼 Что я ищу?
+## 🎓 Сертификаты
 
-- 🏢 **Позиция:** Junior QA Engineer / Стажёр в отдел тестирования
-- 🌐 **Направление:** Web-приложения, API-тестирование
-- 🤝 **Формат:** Только удалённо (Remote)
-- 📍 **Локация:** Серпухов / Россия
+<details>
+<summary>📄 Показать сертификаты Stepik (нажми, чтобы раскрыть)</summary>
+
+| Курс | Ссылка |
+|------|--------|
+| Тестирование ПО. Уровень PRO | [Сертификат](https://stepik.org/cert/3142728) |
+| Тестирование ПО. Практические тренажёры | [Сертификат](https://stepik.org/cert/3120692) |
+| Тестирование ПО. Симулятор собеседования | [Сертификат](https://stepik.org/cert/3135850) |
+
+</details>
 
 ---
 
-## 📬 Контакты
+## 💼 Ищу работу
+
+| Параметр | Значение |
+|----------|----------|
+| **Позиция** | Junior QA Engineer / Trainee |
+| **Направление** | Web, API, ручное тестирование |
+| **Формат** | 🏠 Полностью удалённо (Remote) |
+| **Локация** | Россия, Серпухов |
+| **Готовность** | К тестовому заданию и старту в ближайшее время |
+
+---
+
+## 📬 Связаться со мной
 
 <div align="center">
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-svg-download-png-9343850.png" alt="Gmail" width="50" height="50"/>](mailto:drankincroc@gmail.com)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50"/>](https://t.me/alexkolosovskii)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1280px-LinkedIn_icon_circle.svg.png" alt="LinkedIn" width="50" height="50"/>](ВСТАВЬ_СЮДА_ССЫЛКУ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50"/>](https://t.me/Al_Kolosovskii)
 
 </div>
 
 <div align="center">
 
-![Views](https://visitor-badge.laobi.icu/badge?page_id=AlexKolosovskii)
-*Последнее обновление: Февраль 2026*
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=AlexKolosovskii)
+*Последнее обновление: Апрель 2026*
 
 </div>
